@@ -68,9 +68,10 @@
       border: none;
       padding: 7px;
       border-radius: 5px;
-      background-color: green;
+      background-color: rgba(37, 124, 37, 0.929);
       font-weight: 500;
       margin-right: 20px;
       cursor: pointer;
       color: white;
+      margin-top: 7px;
   }

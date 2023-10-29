@@ -2,6 +2,8 @@
     height: 50px;
     width: 100%;
     background-color: #1877f2;
+    background-image: linear-gradient(to right, #1b1464 0%, #231465 25%, #ed1e79 100%);
+    animation: spin 8s linear 0s infinite reverse;
     display: flex;
     align-items: center;
     position: sticky;
@@ -73,42 +75,42 @@
   }
   
   .topbarIconBadge1 {
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
     background-color: red;
     border-radius: 50%;
     color: white;
     position: absolute;
-    top: 3px;
-    right: 253px;
+    top: 4px;
+    right: 251px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 12px;
   }
   .topbarIconBadge2 {
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
     background-color: red;
     border-radius: 50%;
     color: white;
     position: absolute;
-    top: 3px;
-    right: 216px;
+    top: 4px;
+    right: 214px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 12px;
   }
   .topbarIconBadge3{
-  width: 15px;
-  height: 15px;
+  width: 13px;
+  height: 13px;
   background-color: red;
   border-radius: 50%;
   color: white;
   position: absolute;
-  top: 3px;
-  right: 189px;
+  top: 4px;
+    right: 188px;
   display: flex;
   align-items: center;
   justify-content: center;
