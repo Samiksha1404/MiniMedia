@@ -11,7 +11,7 @@
     z-index: 999;
   }
   
-  .topbarLeft {
+  .topbarLeft { 
     flex: 3;
   }
   
@@ -25,6 +25,7 @@
   
   .topbarCenter {
     flex: 5;
+    margin-left: 23px;
   }
   
   .searchbar {
@@ -56,6 +57,7 @@
     align-items: center;
     justify-content: space-around;
     color: white;
+    margin-right: -90px;
   }
   
   .topbarLink {
